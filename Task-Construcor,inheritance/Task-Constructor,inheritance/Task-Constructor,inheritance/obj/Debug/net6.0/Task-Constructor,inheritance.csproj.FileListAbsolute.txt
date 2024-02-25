@@ -1,0 +1,14 @@
+C:\Users\ismay\OneDrive\Masaüstü\Constructor,inheritance\Task-Construcor,inheritance\Task-Constructor,inheritance\Task-Constructor,inheritance\obj\Debug\net6.0\Task-Constructor,inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismay\OneDrive\Masaüstü\Constructor,inheritance\Task-Construcor,inheritance\Task-Constructor,inheritance\Task-Constructor,inheritance\obj\Debug\net6.0\Task-Constructor,inheritance.AssemblyInfoInputs.cache
+C:\Users\ismay\OneDrive\Masaüstü\Constructor,inheritance\Task-Construcor,inheritance\Task-Constructor,inheritance\Task-Constructor,inheritance\obj\Debug\net6.0\Task-Constructor,inheritance.AssemblyInfo.cs
+C:\Users\ismay\OneDrive\Masaüstü\Constructor,inheritance\Task-Construcor,inheritance\Task-Constructor,inheritance\Task-Constructor,inheritance\obj\Debug\net6.0\Task-Constructor,inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ismay\OneDrive\Masaüstü\Constructor,inheritance\Task-Construcor,inheritance\Task-Constructor,inheritance\Task-Constructor,inheritance\bin\Debug\net6.0\Task-Constructor,inheritance.exe
+C:\Users\ismay\OneDrive\Masaüstü\Constructor,inheritance\Task-Construcor,inheritance\Task-Constructor,inheritance\Task-Constructor,inheritance\bin\Debug\net6.0\Task-Constructor,inheritance.deps.json
+C:\Users\ismay\OneDrive\Masaüstü\Constructor,inheritance\Task-Construcor,inheritance\Task-Constructor,inheritance\Task-Constructor,inheritance\bin\Debug\net6.0\Task-Constructor,inheritance.runtimeconfig.json
+C:\Users\ismay\OneDrive\Masaüstü\Constructor,inheritance\Task-Construcor,inheritance\Task-Constructor,inheritance\Task-Constructor,inheritance\bin\Debug\net6.0\Task-Constructor,inheritance.dll
+C:\Users\ismay\OneDrive\Masaüstü\Constructor,inheritance\Task-Construcor,inheritance\Task-Constructor,inheritance\Task-Constructor,inheritance\bin\Debug\net6.0\Task-Constructor,inheritance.pdb
+C:\Users\ismay\OneDrive\Masaüstü\Constructor,inheritance\Task-Construcor,inheritance\Task-Constructor,inheritance\Task-Constructor,inheritance\obj\Debug\net6.0\Task-Constructor,inheritance.dll
+C:\Users\ismay\OneDrive\Masaüstü\Constructor,inheritance\Task-Construcor,inheritance\Task-Constructor,inheritance\Task-Constructor,inheritance\obj\Debug\net6.0\refint\Task-Constructor,inheritance.dll
+C:\Users\ismay\OneDrive\Masaüstü\Constructor,inheritance\Task-Construcor,inheritance\Task-Constructor,inheritance\Task-Constructor,inheritance\obj\Debug\net6.0\Task-Constructor,inheritance.pdb
+C:\Users\ismay\OneDrive\Masaüstü\Constructor,inheritance\Task-Construcor,inheritance\Task-Constructor,inheritance\Task-Constructor,inheritance\obj\Debug\net6.0\Task-Constructor,inheritance.genruntimeconfig.cache
+C:\Users\ismay\OneDrive\Masaüstü\Constructor,inheritance\Task-Construcor,inheritance\Task-Constructor,inheritance\Task-Constructor,inheritance\obj\Debug\net6.0\ref\Task-Constructor,inheritance.dll

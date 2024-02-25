@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05BEF1CB-E408-44B9-9AC1-50231FFDE87C}|Practice-Constructor,inheritance\\Practice-Constructor,inheritance.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\constructor,inheritance\\practice-constructor,inheritance\\practice-constructor,inheritance\\practice-constructor,inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BEF1CB-E408-44B9-9AC1-50231FFDE87C}|Practice-Constructor,inheritance\\Practice-Constructor,inheritance.csproj|solutionrelative:practice-constructor,inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BEF1CB-E408-44B9-9AC1-50231FFDE87C}|Practice-Constructor,inheritance\\Practice-Constructor,inheritance.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\constructor,inheritance\\practice-constructor,inheritance\\practice-constructor,inheritance\\practice-constructor,inheritance\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BEF1CB-E408-44B9-9AC1-50231FFDE87C}|Practice-Constructor,inheritance\\Practice-Constructor,inheritance.csproj|solutionrelative:practice-constructor,inheritance\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BEF1CB-E408-44B9-9AC1-50231FFDE87C}|Practice-Constructor,inheritance\\Practice-Constructor,inheritance.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\constructor,inheritance\\practice-constructor,inheritance\\practice-constructor,inheritance\\practice-constructor,inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BEF1CB-E408-44B9-9AC1-50231FFDE87C}|Practice-Constructor,inheritance\\Practice-Constructor,inheritance.csproj|solutionrelative:practice-constructor,inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BEF1CB-E408-44B9-9AC1-50231FFDE87C}|Practice-Constructor,inheritance\\Practice-Constructor,inheritance.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\constructor,inheritance\\practice-constructor,inheritance\\practice-constructor,inheritance\\practice-constructor,inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BEF1CB-E408-44B9-9AC1-50231FFDE87C}|Practice-Constructor,inheritance\\Practice-Constructor,inheritance.csproj|solutionrelative:practice-constructor,inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BEF1CB-E408-44B9-9AC1-50231FFDE87C}|Practice-Constructor,inheritance\\Practice-Constructor,inheritance.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\constructor,inheritance\\practice-constructor,inheritance\\practice-constructor,inheritance\\practice-constructor,inheritance\\mammals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BEF1CB-E408-44B9-9AC1-50231FFDE87C}|Practice-Constructor,inheritance\\Practice-Constructor,inheritance.csproj|solutionrelative:practice-constructor,inheritance\\mammals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mammals.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Mammals.cs",
+              "RelativeDocumentMoniker": "Practice-Constructor,inheritance\\Mammals.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Mammals.cs",
+              "RelativeToolTip": "Practice-Constructor,inheritance\\Mammals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T18:18:51.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Bird.cs",
+              "RelativeDocumentMoniker": "Practice-Constructor,inheritance\\Bird.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Bird.cs",
+              "RelativeToolTip": "Practice-Constructor,inheritance\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T18:12:38.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Animal.cs",
+              "RelativeDocumentMoniker": "Practice-Constructor,inheritance\\Animal.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Animal.cs",
+              "RelativeToolTip": "Practice-Constructor,inheritance\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T18:11:47.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Person.cs",
+              "RelativeDocumentMoniker": "Practice-Constructor,inheritance\\Person.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Person.cs",
+              "RelativeToolTip": "Practice-Constructor,inheritance\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T12:33:15.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Practice-Constructor,inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Practice-Constructor,inheritance\\Program.cs",
+              "RelativeToolTip": "Practice-Constructor,inheritance\\Program.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAgwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T12:29:24.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
